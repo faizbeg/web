@@ -1,0 +1,44 @@
+h1{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+p{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+body{
+    text-align: center;
+    margin: 0em;
+}
+div.top{
+    background-color: teal;
+    height: 700px;
+    margin: 0em;
+}
+img.cloudbottom{
+    position: absolute;
+
+}
+img.cloudtop{
+    position: relative;
+    left:300px;
+}
+
+
+}
+#fzp{
+    height: 10px;
+    width: 30%;
+}
+div.contact-me{
+    color: teal;
+}
+img.skill-row{
+    height: 150px;
+}
+div.skills{
+    display: inline-block;
+}
+div.skill-row{
+    display: inline-block;
+}
